@@ -22,7 +22,13 @@ Pivot tables were then created to show summaries of key features for easy assess
 The analysis reveals that the minimum price of a house was **1,750,000.00** and the maximum price was **13,300,000.00** with an average price being **4,767,740.19**. Segregating the data into high, medium and low categories highlighted the majority of houses fall within the low-price band showing affordability of those houses. Data also showed that 56 houses out of the total 254 in the low category were furnished. This indicated that as much as **22%** of the affordable houses are fully furnished which provided an added advantage.
 
 # 5.	Dasheboard /Visualization
-Screenshot 2026-03-11 130358.png 
+
+
+# 6.	Conclusion & Recommendation
+The analysis shows that majority of house prices fall below 5,000,000 which is the low-price category and this indicates affordability. The data shows a high correlation of area on the price of houses. 
+•	It is therefore recommended that investments in the sector should focus on satisfying clients in that medium to low price range.
+•	Furnishing and Air conditioners add value to the houses hence should be prioritized over hot-water heating and guest rooms which were virtually non existence in the houses listed. 
+
 
 
 
